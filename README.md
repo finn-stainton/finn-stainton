@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finn-stainton
 - 👀 I’m interested in peering into the unknown of a problem
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Full-Stack or Embedded Systems
 - 📫 How to reach me ...
 
